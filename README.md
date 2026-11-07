@@ -80,20 +80,6 @@ I help software teams ship products they can trust. Over 24+ years across SAP, c
 
 - Functional and database testing of Human Capital Management recruitment-lifecycle workflows.
 
-## Recommendations
-> “He managed a full team of engineers in the development of several hundred third-party integrations for the Turbine platform. In addition, he also managed the development and delivery of our content library, external marketplace, and several customer facing solution workflows. He consistently worked very collaboratively with his team, and with other globally distributed teams. [...] Yuvaraj was a great partner to work with and would make a great manager for any engineering team.”
-> — _Swimlane colleague_
-
-> “Yuvaraj led our Technical Integrations team with exceptional focus and expertise. Yuvaraj consistently demonstrated strong leadership, clear communication, and a deep understanding of complex integration challenges. [...] I highly recommend Yuvaraj for any Engineering Manager role—he would be a tremendous asset to any organization.”
-> — _Swimlane colleague_
-
-> “Yuvaraj stood out as a people-first leader who truly prioritized team well-being and growth. He was always approachable, created a safe space for open discussion, and ensured we had the clarity and support needed to deliver. His strength lay in removing roadblocks, aligning stakeholders, and fostering a positive, collaborative environment where engineers could focus and thrive.”
-> — _Swimlane team member_
-
-> “Yuvaraj was my manager during my initial months at Swimlane, and I highly recommend him as a manager. He is incredibly supportive and empowering, always encouraging me to take on new challenges and develop my skills. [...] I grew significantly under his guidance.”
-> — _Swimlane team member_
-
-_Excerpts from LinkedIn recommendations by Swimlane colleagues; full text on my LinkedIn profile._
 
 ## Independent project: Qualinexus _(prototype)_
 AI-assisted test automation platform.
