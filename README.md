@@ -17,9 +17,9 @@
 ---
 
 ## About
-I help software teams ship products they can trust. Over 24+ years across SAP, cybersecurity SaaS, telecom and IoT, my work has moved from hands-on testing to leading people and delivery. I have managed distributed teams (up to 14 direct reports, including vendor resources), run Agile and Kanban delivery, and set quality strategy that holds up in practice, with AI-assisted engineering where it helps.
+I help software teams ship products they can trust. Over 24+ years across SAP, cybersecurity SaaS, telecom and IoT, my work has moved from hands-on testing to leading people and delivery. I have managed distributed teams (up to 14 direct reports, including vendor resources), covering hiring, goal setting, performance reviews and performance improvement plans, run Agile and Kanban delivery, and set quality strategy that holds up in practice, with AI-assisted engineering where it helps.
 
-**Looking for:** engineering manager, delivery or program manager, and quality leadership roles (full-time or freelance), with hands-on involvement in frameworks and some strategy and process work.
+**Looking for:** engineering manager, QA test manager, team lead and delivery or program manager roles, with a focus on managing and mentoring teams, setting quality strategy and owning delivery, with technical oversight rather than day-to-day coding. Germany first; open to Europe and the Gulf.
 
 ## Experience
 ### Freelance Project Manager & Test Automation Consultant
@@ -44,10 +44,11 @@ I help software teams ship products they can trust. Over 24+ years across SAP, c
 ### Engineering Manager
 **Swimlane (SOAR security-automation SaaS), Hyderabad, India** · _02/2023 – 06/2025_
 
-- Managed 14 direct reports (8 engineers, 6 vendor resources) across connector development and QA: hiring, reviews, goal setting.
+- Led the Technical Integrations team: 14 direct reports (8 engineers, 6 vendor resources) delivering several hundred third-party integrations (connectors) for the Turbine platform, plus the content library, external marketplace and customer-facing solution workflows.
+- Full people-management responsibility: hiring (job descriptions, working with recruiting agencies and HR on candidate profiles), goal setting, regular one-to-ones, coaching and development plans; ran performance reviews and performance improvement plans (PIPs), handled compensation discussions and employee separations.
+- Customer success: delivered integrations for customer needs, joined customer calls and stakeholder updates, and handled escalations and incidents with Support, Product and Engineering.
 - Introduced AI-driven connector development: connector development coverage from 20% to 80% in six months.
 - Led automated validation of 350+ REST APIs in CI/CD pipelines; directed the JMeter performance-testing framework for enterprise rollouts.
-- Managed customer incidents and escalations, coordinating Support, Product and Engineering.
 
 ### Senior Quality Specialist (Senior Principal Engineer)
 **SAP Labs, Bengaluru, India · S/4HANA, SuccessFactors, Fiori/UI5** · _07/2014 – 02/2023_
@@ -78,6 +79,21 @@ I help software teams ship products they can trust. Over 24+ years across SAP, c
 **Perichin InfoServ, Chennai, India** · _05/2002 – 10/2004_
 
 - Functional and database testing of Human Capital Management recruitment-lifecycle workflows.
+
+## Recommendations
+> “He managed a full team of engineers in the development of several hundred third-party integrations for the Turbine platform. In addition, he also managed the development and delivery of our content library, external marketplace, and several customer facing solution workflows. He consistently worked very collaboratively with his team, and with other globally distributed teams. [...] Yuvaraj was a great partner to work with and would make a great manager for any engineering team.”
+> — _Swimlane colleague_
+
+> “Yuvaraj led our Technical Integrations team with exceptional focus and expertise. Yuvaraj consistently demonstrated strong leadership, clear communication, and a deep understanding of complex integration challenges. [...] I highly recommend Yuvaraj for any Engineering Manager role—he would be a tremendous asset to any organization.”
+> — _Swimlane colleague_
+
+> “Yuvaraj stood out as a people-first leader who truly prioritized team well-being and growth. He was always approachable, created a safe space for open discussion, and ensured we had the clarity and support needed to deliver. His strength lay in removing roadblocks, aligning stakeholders, and fostering a positive, collaborative environment where engineers could focus and thrive.”
+> — _Swimlane team member_
+
+> “Yuvaraj was my manager during my initial months at Swimlane, and I highly recommend him as a manager. He is incredibly supportive and empowering, always encouraging me to take on new challenges and develop my skills. [...] I grew significantly under his guidance.”
+> — _Swimlane team member_
+
+_Excerpts from LinkedIn recommendations by Swimlane colleagues; full text on my LinkedIn profile._
 
 ## Independent project: Qualinexus _(prototype)_
 AI-assisted test automation platform.
