@@ -49,14 +49,17 @@ I help software teams ship products they can trust. Over 24+ years across SAP, c
 - Customer success: delivered integrations for customer needs, joined customer calls and stakeholder updates, and handled escalations and incidents with Support, Product and Engineering.
 - Introduced AI-driven connector development: connector development coverage from 20% to 80% in six months.
 - Led automated validation of 350+ REST APIs in CI/CD pipelines; directed the JMeter performance-testing framework for enterprise rollouts.
+- Acted as Scrum Master: sprint planning, daily stand-ups, sprint reviews and retrospectives; designed processes and architecture in Miro; ran work in Jira and Confluence.
 
-### Senior Quality Specialist (Senior Principal Engineer)
+### Quality Manager
 **SAP Labs, Bengaluru, India · S/4HANA, SuccessFactors, Fiori/UI5** · _07/2014 – 02/2023_
 
 - Quality accountability for seven Agile Scrum teams (six automation engineers); ~1,380 automated tests covering 1,700 scenarios.
 - Automated S/4HANA and Fiori/UI5 tests with Tosca (2 years), Selenium and Cypress; mobile testing on Sauce Labs.
 - Triage Manager for four years (SuccessFactors Compensation, Employee Central, Analytics); handled customer escalations.
-- QA for a nine-application SAP Fiori suite (Australian Department of Education programme, Daikin Japan).
+- Australian Department of Education Leave Management (LMS), SAP Fiori suite of nine applications: led QA and UAT with the client, built and led test automation, onshore/offshore delivery between India and Australia.
+- SuccessFactors Analytics for an Australian customer: tested analytics and reporting, automated the tests, managed the team and handled customer escalations.
+- Scrum Master for the Agile teams: sprint planning, daily stand-ups, sprint reviews and retrospectives.
 - Invited SAP d-kom speaker presenting SuccessFactors Reward and Recognition to 118 customers and partners.
 
 ### Lead Software Engineer
@@ -95,7 +98,7 @@ AI-assisted test automation platform.
 ## Skills
 | | |
 |---|---|
-| **Leadership & delivery** | Engineering management · Team leadership (up to 14 reports) · Project & program delivery · Agile / Kanban · Stakeholder reporting · Risk & escalation management · Jira (15 yrs) · SAP Cloud ALM (3 yrs) |
+| **Leadership & delivery** | Engineering management · Team leadership (up to 14 reports) · Project & program delivery · Scrum Master · Agile / Scrum / Kanban · Jira (15 yrs) and Confluence · Miro (process and architecture design) · Stakeholder reporting · Risk & escalation management · SAP Cloud ALM (3 yrs) |
 | **Test automation** | Playwright – Python, Robot Framework, TypeScript, POM (2 yrs) · Selenium (5) · Cypress (1) · Robot Framework (2) · TestNG (5) · Tosca (2) · Salesforce test automation · Self-healing automation · Sauce Labs mobile testing |
 | **AI-assisted engineering** | LLM-assisted test authoring & debugging · RAG, MCP / tool-calling (prototype) · GitHub Copilot · Codex · Windsurf · AI-assisted validation |
 | **APIs, data & performance** | REST / OData (5) · Postman (5) · JMeter (3) · SQL (10) · Test data management (Pandas, Pydantic) |
