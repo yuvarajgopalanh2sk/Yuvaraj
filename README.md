@@ -51,7 +51,7 @@ I help software teams ship products they can trust. Over 24+ years across SAP, c
 - Led automated validation of 350+ REST APIs in CI/CD pipelines; directed the JMeter performance-testing framework for enterprise rollouts.
 - Acted as Scrum Master: sprint planning, daily stand-ups, sprint reviews and retrospectives; designed processes and architecture in Miro; ran work in Jira and Confluence.
 
-### Quality Manager
+### QA Manager
 **SAP Labs, Bengaluru, India · S/4HANA, SuccessFactors, Fiori/UI5** · _07/2014 – 02/2023_
 
 - Quality accountability for seven Agile Scrum teams (six automation engineers); ~1,380 automated tests covering 1,700 scenarios.
